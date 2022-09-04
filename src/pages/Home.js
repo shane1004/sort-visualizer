@@ -70,7 +70,7 @@ function Home() {
 				imgSrc: heapSortImg,
 				url: "/heapsort",
 				desc:
-					"Heap sort is based on Binary Heap data structure. The min. element is found and placed at the beginning then the process is repeated for remaining elements. It has a time complexity of O(nlogn)",
+					"Heap sort is based on Binary Heap data structure. The maximum element is found and placed at the end, then the process is repeated for remaining elements. It has a time complexity of O(nlogn)",
 			},
 		],
 	];
