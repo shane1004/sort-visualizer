@@ -125,5 +125,5 @@ Heap sort is based on Binary Heap data structure. The maximum element is found a
 
 ### PROJECT URL :
 
-<a href="https://shane1004.github.io/">Sort-Visualizer</a>
+<a href="https://shane1004.github.io/sort-visualizer/">Sort-Visualizer</a>
 
