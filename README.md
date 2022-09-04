@@ -1,7 +1,7 @@
 <div align="center" style="height: 130px">
 
 <h1 align="center">  SORT / VISUALIZER </h1>
-Sorting visualizer is a react base web app where we can visualize and play with sorting algorithms.
+Sort visualizer is a react base web app where we can visualize and play with sorting algorithms.
 
 </div>
 
@@ -48,6 +48,9 @@ Sorting visualizer is a react base web app where we can visualize and play with 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br>
+
+
+
 
 ## Algorithms Implemented
 
