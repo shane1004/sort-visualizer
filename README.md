@@ -50,10 +50,6 @@ Sort visualizer is a react base web app where we can visualize and play with sor
 <br>
 
 
-
-
-## Algorithms Implemented
-
 <div>
 
 <h2 style="color: #323dfa; font-weight:500"> Selection Sort </h2>
